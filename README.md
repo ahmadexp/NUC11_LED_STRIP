@@ -6,6 +6,6 @@ PLEASE Note: Once you program the Arduino on your NUC 11 extreme, you will lose 
 Instruction:
 1- Install the Arduino IDE
 2- Install the FastLED from the library manager
-3- Compile and upload the NUC11_LED_STRIP.ino file
+3- Compile and upload the led_strip.ino file
 
 This project is by no means done and I am looking for your forks, hacks and contributions.
