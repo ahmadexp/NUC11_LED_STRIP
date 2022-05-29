@@ -12,8 +12,7 @@ This project is by no means done and I am looking for your forks, hacks and cont
 
 ToDo:
 
-Get the skull LEDs working
-
+Adding fancy effects
 
 Here is a demo of what we already have:
 
