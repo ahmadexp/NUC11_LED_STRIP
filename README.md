@@ -10,4 +10,4 @@ Instruction:
 
 This project is by no means done and I am looking for your forks, hacks and contributions.
 
-![Alt Text]([https://github.com/ahmadexp/NUC11_LED_STRIP/blob/main/1_0_GIF_2.GIF))
+![Alt Text](https://github.com/ahmadexp/NUC11_LED_STRIP/blob/main/1_0_GIF_2.GIF)
