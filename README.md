@@ -14,4 +14,7 @@ ToDo:
 
 Get the skull LEDs working
 
+
+Here is a demo of what we already have:
+
 ![Alt Text](https://github.com/ahmadexp/NUC11_LED_STRIP/blob/main/1_0_GIF_2.GIF)
