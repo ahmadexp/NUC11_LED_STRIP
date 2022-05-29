@@ -10,4 +10,8 @@ Instruction:
 
 This project is by no means done and I am looking for your forks, hacks and contributions.
 
+ToDo:
+
+Get the skull LEDs working
+
 ![Alt Text](https://github.com/ahmadexp/NUC11_LED_STRIP/blob/main/1_0_GIF_2.GIF)
