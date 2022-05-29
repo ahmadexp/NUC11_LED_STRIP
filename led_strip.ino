@@ -7,7 +7,7 @@
 FastLED_NeoPixel<10, 6, NEO_GRB> io;     
 FastLED_NeoPixel<20, 7, NEO_GRB> left; 
 FastLED_NeoPixel<20, 8, NEO_GRB> right;
-FastLED_NeoPixel<20, 9, NEO_GRB> skull;      
+FastLED_NeoPixel<15, 9, NEO_GRB> skull;      
      
 
 void setup() {
