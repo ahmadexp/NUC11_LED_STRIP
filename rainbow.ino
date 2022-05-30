@@ -2,7 +2,7 @@
 #include <FastLED_NeoPixel.h>
 
 // LED MAX between 0 to 255
-#define STRIP_MAX 100
+#define STRIP_MAX 20
 #define SKULL_MAX 255
 
 #define DATA_PIN_IO 6
