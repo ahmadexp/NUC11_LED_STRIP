@@ -54,7 +54,7 @@ void loop() {
       left.setPixelColor(i, left.gamma32(left.ColorHSV(pixelHue))); 
       left.show();
     }
-  for (unsigned int i = 0; i < skull.numPixels(); i++) {
+  for (unsigned int i = 0; i < right.numPixels(); i++) {
       unsigned long pixelHue = (t*right.numPixels()/NUM_LEDS_RIGHT)+(i * 65536UL / right.numPixels()); 
       right.setPixelColor(i, right.gamma32(right.ColorHSV(pixelHue))); 
       right.show();
